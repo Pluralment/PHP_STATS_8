@@ -1,0 +1,2 @@
+Crimson text semibold - для краткого описания статьи
+Kartika-gras - для "Регистрация"
